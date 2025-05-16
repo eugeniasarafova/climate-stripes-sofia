@@ -28,7 +28,7 @@ This notebook is part of the paper *“Teaching with Open Climate Data in Mathem
 
 [LINK](https://mybinder.org/v2/gh/eugeniasarafova/climate-stripes-sofia/4c71ad4ee18ec93b002888a748b962ed08e5ca57?urlpath=lab%2Ftree%2FCLIMATE_STRIPES.ipynb)
 
-Click the badge above to run the notebook directly in your browser.
+Click the link above to run the notebook directly in your browser.
 
 ## 🏛️ Funding Acknowledgement
 
